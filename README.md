@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elian Guerrero</h1>
-<h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h3 align="center">A passionate junior frontend developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on **Shop store project**
 
