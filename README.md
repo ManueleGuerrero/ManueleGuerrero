@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **WEB**
 
-- 🤝 I’m looking for help with **Big projects**
+- 🤝 I’m looking for help with **Small projects**
 
 - 💬 Ask me about **HTML, CSS**
 
